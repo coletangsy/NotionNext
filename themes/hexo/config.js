@@ -43,5 +43,5 @@ const CONFIG = {
   HEXO_WIDGET_TOC: true, // 移动端悬浮目录
 
   HEXO_THEME_COLOR: '#928CEE' // 主题色配置（默认为 #928CEE）
-
+}
 export default CONFIG
